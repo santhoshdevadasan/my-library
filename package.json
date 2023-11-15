@@ -1,5 +1,5 @@
 {
-  "name": "santhoshdevadasan/my-library",
+  "name": "@santhoshdevadasan/my-library",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.umd.js",
@@ -24,6 +24,6 @@
     "react": "^18.2.0"
   },
   "publishConfig": {
-    "santhoshdevadasan:registry": "https://npm.pkg.github.com"
+    "@santhoshdevadasan:registry": "https://npm.pkg.github.com"
   }
 }
